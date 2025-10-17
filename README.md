@@ -46,18 +46,6 @@ The admin page is used to modify all tables such as Students, Teachers, Departme
 
 **For more details regarding the system and features please refer the reports included.**
 
-## Update (29/11/2020)
-
-Added method to reset attendance time range in Django Admin page.
-
-![alt_text](https://i.imgur.com/0xOWmUZ.png)
-
-This is present in Django Admin -> Attendance (http://127.0.0.1:8000/admin/info/attendanceclass/).  
-Start Date: Start Date of Attendance period  
-End Date: End Date of Attendance period
-
-This will delete all present attendance data and create new attendance objects for the given time range. 
-
 ## Screenshots
 
 ### Teacher Page
